@@ -63,8 +63,6 @@ Tableau dashboards visualizing cohort retention, churn trends, and LTV across cu
 
 ---
 
----
-
 <h1 style="color:#abd200" align="center">Hey 👋, I'm Yahya</h1>
 <h3 align="center">Data & BI Analyst · SQL · Tableau · Power BI</h3>
 <p align="center">Full reporting stack — from data modeling to dashboards that drive decisions</p>
@@ -91,11 +89,8 @@ Tableau dashboards visualizing cohort retention, churn trends, and LTV across cu
 
 </br>
 
----
-
 ## 📫 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-yahyaaliis-blue?style=flat&logo=linkedin)](https://linkedin.com/in/yahyaaliis)
 [![Email](https://img.shields.io/badge/Email-yahyali089@gmail.com-red?style=flat&logo=gmail)](mailto:yahyali089@gmail.com)
 
----
