@@ -55,4 +55,4 @@ I work at the intersection of data and decision-making — building BI systems, 
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yahyaaliis&show_icons=true&hide_border=true&count_private=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=yahyaaliis&theme=default)
