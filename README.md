@@ -79,4 +79,4 @@ I work at the intersection of data and decision-making — building BI systems, 
 -->
 
 </br>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=yahyaaliis&show_icons=true&hide_border=true&locale=en&layout=compact" alt="yahyaaliis" /></p>
+<p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yahyaaliis&theme=default" alt="yahyaaliis" /></p>
