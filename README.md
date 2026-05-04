@@ -31,12 +31,27 @@ I work at the intersection of data and decision-making — building BI systems, 
 
 ## 🚀 Projects
 
-| Project | Description |
-|---|---|
-| **Azure Lakehouse Pipeline** | End-to-end Azure data pipeline using Data Factory, Data Lake & Databricks |
-| **Customer Segmentation** | PCA, t-SNE & K-Means clustering on e-commerce data |
-| **Stock Market Prediction** | ARIMA & LSTM time-series models in Python |
-| **Cohort Retention Analysis** | Tableau dashboards for churn trends & LTV analysis |
+**Azure Lakehouse Pipeline for Workforce Analytics**  
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Azure Data Factory](https://img.shields.io/badge/Data%20Factory-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white) ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)  
+End-to-end Azure data pipeline with lakehouse architecture to generate workforce KPIs.
+
+---
+
+**Unsupervised Learning for Customer Segmentation**  
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)  
+PCA, t-SNE & K-Means clustering to segment e-commerce customers into high-value, dormant, and growth groups.
+
+---
+
+**Time-Series Modeling for Stock Market Prediction**  
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)  
+ARIMA & LSTM models to forecast stock market directionality, improving MAE by 13% over baseline.
+
+---
+
+**Cohort Retention & Churn Analysis**  
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white)  
+Tableau dashboards visualizing cohort retention, churn trends, and LTV across customer segments.
 
 ---
 
