@@ -63,11 +63,6 @@ Tableau dashboards visualizing cohort retention, churn trends, and LTV across cu
 
 ---
 
-## 📫 Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-yahyaaliis-blue?style=flat&logo=linkedin)](https://linkedin.com/in/yahyaaliis)
-[![Email](https://img.shields.io/badge/Email-yahyali089@gmail.com-red?style=flat&logo=gmail)](mailto:yahyali089@gmail.com)
-
 ---
 
 <h1 style="color:#abd200" align="center">Hey 👋, I'm Yahya</h1>
@@ -95,4 +90,12 @@ Tableau dashboards visualizing cohort retention, churn trends, and LTV across cu
 -->
 
 </br>
-<p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yahyaaliis&theme=default" alt="yahyaaliis" /></p>
+
+---
+
+## 📫 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-yahyaaliis-blue?style=flat&logo=linkedin)](https://linkedin.com/in/yahyaaliis)
+[![Email](https://img.shields.io/badge/Email-yahyali089@gmail.com-red?style=flat&logo=gmail)](mailto:yahyali089@gmail.com)
+
+---
