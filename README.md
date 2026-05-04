@@ -1,7 +1,7 @@
 # Hi, I'm Yahya Ali 👋
 
-**Data & BI Analyst** based in Karachi, Pakistan  
-I work at the intersection of data and decision-making — building BI systems, dashboards, and data warehouses that reveal performance trends and make insights easier to act on.
+**Data & BI Analyst** based in Dubai, UAE
+I work at the intersection of data and decision-making — building BI systems, dashboards, and data warehouses.
 
 ---
 
@@ -71,7 +71,8 @@ Tableau dashboards visualizing cohort retention, churn trends, and LTV across cu
 ---
 
 <h1 style="color:#abd200" align="center">Hey 👋, I'm Yahya</h1>
-<h3 align="center">A passionate Software Engineer</h3>
+<h3 align="center">Data & BI Analyst · SQL · Tableau · Power BI</h3>
+<p align="center">Full reporting stack — from data modeling to dashboards that drive decisions</p>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=yahyaaliis&label=Profile%20views&color=abd200&style=flat-square" alt="yahyaaliis" /> </p> -->
 
