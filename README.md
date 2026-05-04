@@ -71,7 +71,7 @@ Tableau dashboards visualizing cohort retention, churn trends, and LTV across cu
 
 ![](https://komarev.com/ghpvc/?username=yahyaaliis&style=for-the-badge)
 
-- 🔭 I’m currently working on [Qiraathub](https://www.qiraathub.com/) & [DoubleSpeed](https://doublespeed.ai/)
+- 🔭 I’m currently working on 
 
 - 📫 How to reach me **yahyali089@gmail.com**
 
